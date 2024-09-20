@@ -1,9 +1,8 @@
  Hi,I’m RIDDHI NAHAR 👩‍💻 
    - a tech enthusiast on a mission to turn ideas into code!  
    -  Driven by a passion enhancing the user experience through thoughtful and innovative work process.
-   - I’m currently pursuing B.Tech in CSE 💻 , where I’m deep-diving into areas like Web development, algorithms, and AI.
-   - My goal is to harness technical knowledge to create impactful, scalable solutions that bridge innovation and real-world application. 
-   - Let’s connect and build tomorrow’s technology today!🚀  
+   - I’m currently pursuing B.Tech in CSE 💻 , where I’m deep-diving into areas like Web development, algorithms, and AI. 
+   
 
 I have insights on  👀  :
   - Fuelled passion for coding and an insatiable curiosity,I’m not just focused on my core CSE studies.
@@ -19,10 +18,12 @@ Core Qualities :
   - HTML 🌐
   - CSS 🎨
   - C 💻
-  - 
+
 Connect on Social 🔗 :
  - [LinkedIn](https://www.linkedin.com/in/riddhi-nahar-885650291)💼 
- - [Email](riddhinahar028@gmail.com) 📧 
+ - [Email](riddhinahar028@gmail.com) 📧
+
+Let’s connect and build tomorrow’s technology today!🚀  
 
 <!---
 RIDDHI-01/RIDDHI-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
