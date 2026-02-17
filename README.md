@@ -15,7 +15,7 @@
    - while enhancing my ability to communicate ideas clearly and collaborate efficiently!
      
 ## Core Qualities :
-  - HTML 🌐 , CSS 🎨 , C 💻
+  - JAVA 💻 , MERN , HTML 🌐 , CSS 🎨 
 
 ## Connect on Social 🔗 :
  - [LinkedIn](https://www.linkedin.com/in/riddhi-nahar-885650291)💼 
